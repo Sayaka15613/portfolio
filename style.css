@@ -171,7 +171,7 @@ nav ul li a:hover{
 
 .fey_1 a{
 	text-align: center;
-	font-size: 20px;
+	font-size: 25px;
 	text-decoration: none;
 	list-style: none;
 	color: #5a5c5b;
@@ -180,6 +180,7 @@ nav ul li a:hover{
 
 .fey_1 a:hover{
 	color: #c4c7c5;
+	font-size: 30px;
 	transition: color 300ms ease;
 	}
 
