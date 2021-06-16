@@ -1,0 +1,48 @@
+﻿@charset UTF-8;
+/* ================================================ */
+/*             0 ここからサイト全体設定                */
+/* ================================================ */
+
+body{
+	padding: 0;
+	font-size: 16px;
+	height: 100%;
+	color: #333; 
+	background-color:#eef2e3;
+	width: 100%;
+	animation: topfadeIn 3s ease 0s 1 normal;
+    -webkit-animation: topfadeIn 3s ease 0s 1 normal;
+	}
+ 
+
+img{
+	display: inline-block;
+	width: 40%;
+	margin:100px 30px 100px 100px;
+}
+
+.description{
+	display: inline-block;
+/*	background-color: #ccc;*/
+	padding:100px;
+	vertical-align:  top; 
+	margin:100px auto auto auto;
+	color:#4d4a4d;
+}
+
+.title{
+	color:#4d4a4d;
+	font-size: 20px;
+}
+
+a{
+	color:#4d4a4d;
+	font-size: 20px;
+}
+
+a:hover{
+		color:#c8ceb4;
+	transition: color 300ms ease;
+
+}
+
